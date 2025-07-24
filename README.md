@@ -5,7 +5,7 @@ The aim of this project is to develop a Python-based tool that can automatically
 This tool can assist in video analysis, summarization, surveillance insights, and as a preprocessing step for video-based AI applications.
 
 
-##  Features Explained
+##  Features
 
 | Feature              | Description                                                                 |
 |----------------------|-----------------------------------------------------------------------------|
